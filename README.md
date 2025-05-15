@@ -48,10 +48,10 @@ print(f"Number of DNA sequences required to transcribe and translate into '{targ
 * reverse_translate_amino_acid(amino_acid): Returns a list of possible RNA codons for the given amino acid based on the defined genetic code.
 * find_dna_sequences(target_sequence): Recursively builds all possible DNA sequences encoding the full amino acid sequence.
 
-#Applications
+# Applications
 * Understanding codon degeneracy in genetic code.
 * Generating candidate DNA sequences for synthetic gene design.
 * Educational tool for molecular biology and bioinformatics.
 
-License
+# License
 This project is licensed under the MIT License.
